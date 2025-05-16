@@ -1,0 +1,98 @@
+.dashboard-container {
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .dashboard-container h2 {
+    color: #333;
+  }
+  
+  .dashboard-container h3 {
+    color: #444;
+  }
+  
+  .dashboard-container button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #00e5ff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dashboard-container button:hover {
+    background-color: #0288d1;
+  }
+  
+   .filter-bar {
+    margin-bottom: 10px;
+  }
+  
+  .report-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    background: white;
+  }
+  
+  .report-table th,
+  .report-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .report-table th {
+    background-color: #eee;
+  }
+  
+  .card {
+    background: #fff;
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 5px solid #00e5ff;
+  }
+  
+
+   .resolved-section {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 12px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .resolved-table {
+    background-color: #fff;
+  }
+  
+  .download-link {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 10px 16px;
+    background-color: #0a5d9d;
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s ease;
+  }
+  
+  .download-link:hover {
+    background-color: #083e6f;
+  }
+  
+  .logout-button {
+    margin-top: 30px;
+    padding: 10px 20px;
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  .logout-button:hover {
+    background-color: #c9302c;
+  }
+  
